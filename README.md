@@ -1,6 +1,6 @@
 <h3>How to run</h3>
-`npm install`  
-`npm run dev`
+<b>npm install<b><br>
+<b>npm run dev<b>
 
 <h3>Few words</h3>
 I used Vue 3 with Composition API , Typescript and Vite.<br>
