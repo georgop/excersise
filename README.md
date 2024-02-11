@@ -8,5 +8,8 @@ Additionally I used vue-router for the routing and a little bit of Bootstrap for
 
 Lastly, I consumed this API for displaying some information about the location of each user.
 https://nominatim.openstreetmap.org/ui/search.html
+Unfortunately only one out of ten users had accurate lat/lng coordinates.
+
+The app is responsive for widths of 360px and more.
 
 
